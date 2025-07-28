@@ -1,1 +1,1 @@
-# algoritimos-b
+# Diciplina de algoritimos-b
